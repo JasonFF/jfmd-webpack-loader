@@ -1,6 +1,6 @@
 {
   "name": "jfmd-webpack-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/JasonFF/jfmd-webpack-loader.git",
   "author": "JasonFF <dfQ_Qjb@qq.com>",
